@@ -57,11 +57,11 @@ We evaluated the models using metrics such as Mean Squared Error (MSE) and Root 
 
 ## Dependencies
 
--Pandas
--numpy
--sklearn
--matplotlib
--seaborn
+- Pandas
+- Numpy
+- sklearn
+- matplotlib
+- seaborn
 
 ## Contributors
 
